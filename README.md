@@ -1,6 +1,6 @@
 # todolist
 
-<h2>This is a todo list website using html css bootstrap and js it has four features.</h2>
+<h2>This is a todo list website using html css bootstrap and js it has four features all implemented using js functions and DOM manipulation.</h2>
 
 1. Add 
 2. Reset 
